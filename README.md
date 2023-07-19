@@ -1,6 +1,6 @@
 # plantdetector
 
-Deneyelim bakalım
+This will be a flower identification project using ..
 
 ## Getting Started
 
